@@ -2,7 +2,8 @@ As the name suggests, a simple script that uploads anonymously to imgur. The URL
 I made this script while learning python.  
 It uses the [Pyperclip](https://github.com/asweigart/pyperclip "Pyperclip GitHub") and [Requests](.python-requests.org/ "Requests website") modules.
 
-#### Feature wishlist:
-* Upload from url
+#### To-Do List:
+* ~~Pass directory as an argument~~
+* Upload from URL
 * GUI interface
   - Drag and drop
